@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!",
+        "title": "Embark on Adventures with Yay!"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Embark on Adventures with Yay!",
+  "subtitle": "Discover thrilling travel stories, hidden gems, and tips to fuel your wanderlust. Let's explore the world together!"
+}
